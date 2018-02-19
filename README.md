@@ -1,6 +1,6 @@
 # Naming things Alfred workflow
 
-A workflow for [Alfred](https://www.alfredapp.com/) that helps when you need some inspiration to name things. I wrote a [blogpost](#) explaining how this helps me.
+A workflow for [Alfred](https://www.alfredapp.com/) that helps when you need some inspiration to name things. I wrote a [blogpost](https://sebastiandedeyne.com/posts/2018/a-pair-of-helping-hands-when-naming-things) explaining how this helps me.
 
 The workflow adds two keywords: `syn` to find synonyms and `assoc` to find associations.
 
