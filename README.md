@@ -6,7 +6,7 @@ The workflow adds two keywords: `syn` to find synonyms and `assoc` to find assoc
 
 ## Synonyms
 
-Opens your browser with a synonym search on [thesaurus.com](https://wordassociations.net/). Thesaurus allows you to click through to find synonyms of synonyms, and synonyms of synonyms of synonyms.
+Opens your browser with a synonym search on [thesaurus.com](https://www.thesaurus.com/). Thesaurus allows you to click through to find synonyms of synonyms, and synonyms of synonyms of synonyms.
 
 ```
 syn dog
